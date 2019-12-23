@@ -1,0 +1,2 @@
+# collecticity-management
+initiale project
